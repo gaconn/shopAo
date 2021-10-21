@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
 `;
 export const Content = styled.div`
     background: url(${({ imageUrl }) => imageUrl});
-    height: 100vh;
+    height: 80vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
